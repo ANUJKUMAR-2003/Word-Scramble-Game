@@ -7,7 +7,7 @@ let newWords = "";
 let randWords = "";
 
 let sWords = ['pyhton', 'javascript', 'java', 'HTML', 'reactjs', 'nodejs', 'expressjs', 'computer', 'algorithm', 'binary', 'netwotks', 'communication',
-    'github', 'php', 'mysql', 'angular', 'androis', 'swift', 'kotlin'];
+    'github', 'php', 'mysql', 'angular', 'android', 'swift', 'kotlin'];
 
 const createNewWords = () => {
     let ranNum = Math.floor(Math.random() * sWords.length);
